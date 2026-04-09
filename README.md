@@ -1,4 +1,4 @@
-# Hi there, I'm Sunil Kumar Yadav! 👋
+# Hi There, I'm Sunil Kumar Yadav! 👋
 
 ### 👨‍💻 Full Stack Developer | BCA Student at MGKVP | Cyber Security Enthusiast 🛡️
 
