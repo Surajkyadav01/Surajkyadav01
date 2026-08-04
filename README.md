@@ -1,6 +1,6 @@
 # Hi There, I'm Sunil Kumar Yadav! 👋
 
-### 👨‍💻 Full Stack Developer | BCA Student at MGKVP | Cyber Security Enthusiast 🛡️
+### 👨‍💻 Full Stack Developer | BCA Student at MGKVP | Software Engineer Enthusiast 
 
 - 🎓 Currently in **BCA 4th Semester** at Mahatma Gandhi Kashi Vidyapith.
 - 💻 Passionate about **Web Development** (HTML, CSS, JS) and **C++**.
