@@ -55,17 +55,6 @@ An educational content platform where I create informative posts and videos abou
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=surajkyadav01&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=surajkyadav01&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajkyadav01&layout=compact&theme=tokyonight"/>
-</p>
-
----
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Surajkyadav01&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://streak-stats.demolab.com?user=Surajkyadav01&theme=tokyonight&hide_border=true" />
@@ -74,6 +63,8 @@ An educational content platform where I create informative posts and videos abou
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajkyadav01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
 
 ## 🌐 Connect With Me
 
