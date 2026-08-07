@@ -1,4 +1,4 @@
-# Hi There, I'm Suraj Kumar Yadav! 👋
+# Hi There, I'm Sunil Kumar Yadav! 👋
 
 ### 👨‍💻 Aspiring Software Engineer | Full Stack Developer | BCA Student (Graduating in 2027)
 
@@ -66,6 +66,14 @@ An educational content platform where I create informative posts and videos abou
 </p>
 
 ---
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Surajkyadav01&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Surajkyadav01&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajkyadav01&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🌐 Connect With Me
 
